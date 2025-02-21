@@ -1,0 +1,9 @@
+openai-whisper
+pyaudio
+wave
+numpy
+requests
+munch
+transfromers
+torch
+scipy
